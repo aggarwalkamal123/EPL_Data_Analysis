@@ -6,11 +6,20 @@ The main goal was to extract insights into team performances, player statistics,
 
 ---
 
+## 🎯 Objective
+- Perform end-to-end data analysis on EPL match data (1993–2022)  
+- Clean, explore, and visualize key statistics  
+- Engineer new features like **Match Intensity** and **Aggressiveness**  
+- Train machine learning models to predict match results  
+- Deliver compelling insights through visuals and storytelling  
+
+---
+
 ## 📊 Tech Stack
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** → Data cleaning & EDA  
 - **Google Colab** → Notebook development  
 - **Power BI** → Dashboard creation  
-- **MS PowerPoint** → Final presentation  
+- **Google Slides** → Final presentation  
 
 ---
 
@@ -27,7 +36,7 @@ Key steps performed:
 The dashboard highlights:
 - Total Goals (Home & Away)  
 - Wins, Losses, and Draws distribution  
-- Top performing teams & players  
+- Top performing teams 
 - Match outcome trends  
 
 ![Dashboard Preview](EPL_Analysis.png)
@@ -48,15 +57,30 @@ The dashboard highlights:
 - Home teams scored significantly more goals compared to away teams.  
 - Certain teams consistently dominated across multiple seasons.  
 - The distribution of draws was lower than wins/losses, showing competitive outcomes.  
-- Goals scored trend indicated increasing attacking playstyles over seasons.  
+- Goals scored trend indicated increasing attacking playstyles over seasons.
+- Home advantage exists but is narrowing in modern seasons
+- Shots on target and discipline metrics are strong predictors of match outcome
+- Referee behavior significantly affects match dynamics
+- ~13% of matches are won by teams with fewer shots — underdog victories
+- Custom metrics like Match Intensity Score reveal deeper game dynamics  
 
 ---
 
-🎯 Conclusion
+## 🎯 Conclusion
 
-This project demonstrates how EDA + Visualization tools can uncover hidden trends in sports data, making it easier for analysts, fans, and teams to understand performance insights.
+The EPL exhibits a slight home advantage, though it's decreasing.
+Discipline, shots on target, and referee behavior significantly affect outcomes.
+ML models can predict outcomes with fair accuracy using basic stats.
+Custom metrics like Match Intensity reveal hidden game dynamics.
 
-👨‍💻 Author
+---
+
+## Recommendations:
+
+Use data analytics for team strategy refinement
+Explore player-level or positional data for deeper insights
+
+## 👨‍💻 Author
 
 Kamal Aggarwal
 Connect with me on LinkedIn - https://www.linkedin.com/in/kamal-aggarwal-18923127a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtGJZZ6WKRJq7m9zIgsBXzg%3D%3D 
