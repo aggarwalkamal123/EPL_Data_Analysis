@@ -68,19 +68,19 @@ The dashboard highlights:
 
 ## 🎯 Conclusion
 
-The EPL exhibits a slight home advantage, though it's decreasing.
-Discipline, shots on target, and referee behavior significantly affect outcomes.
-ML models can predict outcomes with fair accuracy using basic stats.
-Custom metrics like Match Intensity reveal hidden game dynamics.
+- The EPL exhibits a slight home advantage, though it's decreasing.
+- Discipline, shots on target, and referee behavior significantly affect outcomes.
+- ML models can predict outcomes with fair accuracy using basic stats.
+- Custom metrics like Match Intensity reveal hidden game dynamics.
 
 ---
 
 ## Recommendations:
 
-Use data analytics for team strategy refinement
-Explore player-level or positional data for deeper insights
+- Use data analytics for team strategy refinement
+- Explore player-level or positional data for deeper insights
 
 ## 👨‍💻 Author
 
-Kamal Aggarwal
-Connect with me on LinkedIn - https://www.linkedin.com/in/kamal-aggarwal-18923127a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtGJZZ6WKRJq7m9zIgsBXzg%3D%3D 
+- Kamal Aggarwal
+- Connect with me on LinkedIn - linkedin.com/in/kamal-aggarwal-18923127a 
